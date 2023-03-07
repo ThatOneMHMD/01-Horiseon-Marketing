@@ -23,6 +23,8 @@ This is a page for the Horiseon Digital Marketing Agency that meets the accesibi
 
 - When the image elements are viewed; accessible alt attributes will be found
 
+- When the links in the navigation bar are clikced, they will act as guides to the corresponding section by moving the screen over
+
 - When the heading attriutes are viewed; they will be found to fall in sequential order
 
 - When the title element is viewed; it will be consice and descriptive

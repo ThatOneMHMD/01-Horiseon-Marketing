@@ -1,0 +1,161 @@
+
+/* CSS styling sheet! Refrenced/linked in html! */
+/* for overall general styling: creating boxes for all content! */
+* {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+/* body formatting; background colour */
+body {
+
+    background-color: #d9dcd6;
+}
+
+/* ***
+header and nav styling */
+
+/* formatting for the header; font, background colour, and padding between the element and the border of the box */
+header {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 48px;
+    background-color: #0072bb;
+    padding: 20px;
+ 
+}
+
+/* navigation bar styling; font and display in a line, opposed to starting a new line for each link in the nav bar */
+nav {
+
+    font-size: 20px;
+    display: inline;
+   
+}
+
+/* h1 (titile) styling; font and display in a line alongside the links in nav bar */
+h1 {
+
+    display: inline;
+    font-size: 48px;
+}
+
+/* changed the colour of the "seo" inside the Horiseon title; changed colour and made sure it is displayed inline as a part of the entire word */
+form {
+    
+    display: inline;
+    color: #b7d39a;
+
+}
+
+/* styling specification for the links in nav; main thing is that they're floating to the right and on the same line as the title */
+a {
+
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    float:right;
+    padding:20px;
+}
+
+/* styling for all paragraph elements unless otherwise specified */
+p {
+
+    font-size: 16px;
+}
+
+/* styling for main figure; position and how it looks */
+figure img {
+
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+/* *** 
+Styling for main and aside! */
+/* styling for the main segment overall; main thing is how all sections within are viewed underneath one another while they are inline to
+the aside element */
+main {
+
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+/* styling for the separate sections in the main segment */
+.main-section {
+
+    margin-bottom: 20px;
+    font-size: 26px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+}
+
+/* styling for the figure that is supposed to be floating right, inside the individual sections */
+.fig-R {
+
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
+}
+
+/* styling for the figure that is supposed to be floating left, inside the individual sections */
+.fig-L {
+
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+/* styling for the aside segment next to the main segment; making it float right amongst oother design specifications */
+aside {
+
+    margin: 12px 20px 20px 10px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+}
+
+/* styling for the individual sections inside the aside segment. NOTE: I have added "margin-bottom: 23px;" because it creates a margin 
+under each aside-section, making the desgin much better looking (in my poinion). If for some reason the user did not like it, it can be easilty
+ removed by deleting the mentioned line, thus reverting the website back to resemble the given screenshot! */
+.aside-section {
+
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 23px;
+    width: 100%;
+    padding:20px; 
+    background-color: #2589bd;
+}
+
+/* styling for the three icons inside the individual sections in the aside segment; the desgin make them each contain a block/a line, 
+as opposed to all being on the same line! */
+.aside-section img {
+    
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+
+}
+
+/* styling for the paragraph in the footer; mainly changed colour to black and made text centered! */
+footer p {
+
+    padding: 30px;
+    clear: both;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}

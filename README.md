@@ -7,7 +7,7 @@ https://thatonemhmd.github.io/01-Horiseon-Marketing/
 
 ## Note 
 
-To access the HTML file of the webpage, click on the index.html file above!
+To access the HTML file of the webpage, click on the index.html file above! Additionally, the CSS styling sheet can be found in the assets file/CSS!
 
 ## Description
 

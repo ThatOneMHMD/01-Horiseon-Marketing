@@ -5,6 +5,10 @@
 
 https://thatonemhmd.github.io/01-Horiseon-Marketing/
 
+## Note 
+
+To access the HTML file of the webpage, click on the index.html file above!
+
 ## Description
 
 This is a page for the Horiseon Digital Marketing Agency that meets the accesibility standards. The website features a navigation bar at the top, with the title (name of the company) at the right and three functional links to the right. A large cover picture of an ongoing marketting meeting is displayed at the heart of the website, just underneath the navigation bar. Under that, the main segment floats to the left while displaying three sections about "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing", each with their wn pictures. Floating to its left is the aside segment that displays "Lead Generation", "Brand Awareness", and "Cost Management". Lastly is the footer with the copyrights for Horiseon!
